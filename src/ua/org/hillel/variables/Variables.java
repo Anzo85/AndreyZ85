@@ -13,7 +13,7 @@ System.out.println(" Second lesson - VARIABLES ");
 
         //   byte b = 0;
 
-
+System.out.print(" Double check");
 
     }
 }
